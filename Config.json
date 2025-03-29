@@ -1,0 +1,11 @@
+{
+  "version": "1",
+  "windows_url": "https://example.com/download/windows.zip",
+  "windows_exe": "Game.exe",
+  "linux_url": "https://example.com/download/linux.zip",
+  "linux_exe": "Game.x86_64",
+  "macos_url": "https://example.com/download/macos.zip",
+  "macos_exe": "Game.app",
+  "android_url": "https://example.com/download/android.zip",
+  "android_exe": "Game.apk"
+}
